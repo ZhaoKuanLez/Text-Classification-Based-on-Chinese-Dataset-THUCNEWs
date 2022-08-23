@@ -9,7 +9,8 @@ This is a classification example based on the THUCNEWs dataset and using a very 
 
 ## Dataset
 THUCNEWs: http://thuctc.thunlp.org/
-(Recommendation: This dataset is larger, use a subset of this dataset if running locally.)
+(Recommendation: This dataset is larger, use a subset of this dataset if running locally.)<br />
+HIT stop word dataset: (I'm sorry, I didn't find the official release page for this dataset, if you know, please tell me where it is.)
 
 ## Run
 If you know how to use jupyter, I'm sure you'll be able to run it.
@@ -30,4 +31,5 @@ You can try to run the following command to run the notebook:<br />
 **SOLUTION2**: `jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10`<br />
 
 ## References
-[1] Maosong Sun, Jingyang Li, Zhipeng Guo, Yu Zhao, Yabin Zheng, Xiance Si, Zhiyuan Liu. THUCTC: An Efficient Chinese Text Classifier. 2016.
+[1] Maosong Sun, Jingyang Li, Zhipeng Guo, Yu Zhao, Yabin Zheng, Xiance Si, Zhiyuan Liu. THUCTC: An Efficient Chinese Text Classifier. 2016.<br />
+[2] Harbin Institute of Technology stop word dataset
